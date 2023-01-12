@@ -1,0 +1,5 @@
+venv_env
+__pycache__
+model.pt
+tokenizer.pt
+.env
